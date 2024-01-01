@@ -1,0 +1,34 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site"
+  },
+  "course_title": "test-site",
+  "hide_download": false,
+  "course_description": "**test-site**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-site"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "4894e02c-b3b2-4598-becc-260980a84421",
+  "site_short_id": "6.4210-fall-2022"
+}

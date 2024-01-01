@@ -1,0 +1,9 @@
+leftnav:
+- identifier: b3bcc099-3a64-43be-96d2-33a140bb340d
+  name: Menu 1
+  pageRef: /resources/download-2_jpeg
+  weight: 10
+- identifier: 84c5dccb-5b11-4e06-ab6a-1be88277d7c3
+  name: Menu 2
+  pageRef: /resources/download-1_jpeg
+  weight: 20

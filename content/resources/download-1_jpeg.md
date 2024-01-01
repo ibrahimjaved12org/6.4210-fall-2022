@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test-site/download-1.jpeg
+file: /media/courses/108-test-site-spring-2023/download-1.jpeg
 file_size: 13419
 file_type: image/jpeg
 image_metadata:

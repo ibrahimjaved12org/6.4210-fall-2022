@@ -1,9 +1,9 @@
 leftnav:
-- identifier: b3bcc099-3a64-43be-96d2-33a140bb340d
-  name: Menu 1
-  pageRef: /resources/download-2_jpeg
+- identifier: 16517fac-e20f-4704-bf95-949824673cf0
+  name: Fall 2022 Course
+  pageRef: /external-resources/fall-2022-course_16517fac-e20f-4704-bf95-949824673cf0
   weight: 10
-- identifier: 84c5dccb-5b11-4e06-ab6a-1be88277d7c3
-  name: Menu 2
-  pageRef: /resources/download-1_jpeg
+- identifier: 687450cc-1787-4bd5-b640-4a97fc589c61
+  name: Online Textbook
+  pageRef: /external-resources/online-textbook_687450cc-1787-4bd5-b640-4a97fc589c61
   weight: 20
